@@ -65,5 +65,5 @@ def main():
 
 
 if __name__ == '__main__':
-    print('running crawl_ranking')
+    print('running crawl_university')
     main()
